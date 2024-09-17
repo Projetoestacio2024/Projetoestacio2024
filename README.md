@@ -4,6 +4,5 @@
 - Marcio Alexandre dos Santos Ferreira Filho
 - Paulo Sergio Caneiro de Assis Neto 
 - Euziane Marques Chagas
-- Thalles de Souza Nazaré<p>
-
+- Thalles de Souza Nazaré
 - Tema: PetShop
