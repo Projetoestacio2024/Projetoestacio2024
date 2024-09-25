@@ -1,8 +1,6 @@
-- 
-
 - Integrantes:
-- Marcio Alexandre dos Santos Ferreira Filho
-- Paulo Sergio Caneiro de Assis Neto 
-- Euziane Marques Chagas
-- Thalles de Souza Nazaré
+- Marcio Alexandre dos Santos Ferreira Filho - Matrícula 202408422466 
+- Paulo Sergio Caneiro de Assis Neto - Matrícula 202408598343 
+- Euziane Marques Chagas - Matrícula 202402997386 
+- Thalles de Souza Nazaré - Matrícula 202408598343 
 - Tema: PetShop
